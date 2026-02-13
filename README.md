@@ -13,4 +13,4 @@ HTML | CSS | JavaScript | OpenAI API | GitHub
  Work in Progress – built for hackathon practice and real-world impact.
 
 
-Made by Sandra
+Made with love
